@@ -57,4 +57,4 @@ The application provides three interactive analytical views, each powered by a c
 ## 🖼️ Supporting Documentation
 
 * **Screenshots and Demo:** This folder holds the screenshots and demo artifacts submitted during project checkpoints.
-* **Video Demo:** appears within the repo as ''
+* **Video Demo:** appears within the repo as 'GUI_demo_finley_jacob.mp4'
